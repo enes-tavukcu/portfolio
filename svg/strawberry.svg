@@ -1,0 +1,21 @@
+<div class="button">
+    <svg id="e6IwUBYSsrM1" xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 80 80"
+      shape-rendering="geometricPrecision" text-rendering="geometricPrecision"
+       style="cursor:pointer"><g transform="matrix(.5 0 0 0.5-333.425575-294.87233)">
+       
+       <line id="e6IwUBYSsrM27" x1="706.26" y1="640.86" x2="786.26" y2="640.86" 
+       fill="none" stroke="#ef0585" stroke-width="12" stroke-linecap="round" 
+       stroke-miterlimit="10" stroke-dasharray="80"/><line id="e6IwUBYSsrM30" 
+       x1="716.26" y1="669.61" x2="776.26" y2="669.61" transform="translate(.000001 0)" 
+       fill="none" stroke="#ef0585" stroke-width="12" stroke-linecap="round" 
+       stroke-miterlimit="10"/>
+       <line id="e6IwUBYSsrM31" x1="726.26" y1="698.36" 
+       x2="766.26" y2="698.36" transform="translate(.000001 0)" fill="none" stroke="#ef0585" stroke-width="12" stroke-linecap="round" stroke-miterlimit="10"/></g>
+<script><![CDATA[
+(function(s,i,u,o,c,w,d,t,n,x,e,p,a,b){(a=document.getElementById(i.root)).svgatorPlayer={ready:(function(a){b=[];return function(c){return c?(b.push(c),a.svgatorPlayer):b}})(a)};w[o]=w[o]||{};w[o][s]=w[o][s]||[];w[o][s].push(i);e=d.createElementNS(n,t);e.async=true;e.setAttributeNS(x,'href',[u,s,'.','j','s','?','v','=',c].join(''));e.setAttributeNS(null,'src',[u,s,'.','j','s','?','v','=',c].join(''));p=d.getElementsByTagName(t)[0];p.parentNode.insertBefore(e,p);})('91c80d77',{"root":"e6IwUBYSsrM1","version":"2022-05-04","animations":[{"elements":{"e6IwUBYSsrM27":{"transform":{"data":{"t":{"x":-706.26,"y":-640.86}},"keys":{"o":[{"t":0,"v":{"x":706.26,"y":640.86,"type":"corner"},"e":[0.175,0.885,0.32,1.275]},{"t":500,"v":{"x":717.975736,"y":640.86,"type":"corner"}}],"r":[{"t":0,"v":0,"e":[0.175,0.885,0.32,1.275]},{"t":500,"v":44.999999}]}}},"e6IwUBYSsrM30":{"transform":{"data":{"t":{"x":-716.259999,"y":-669.61}},"keys":{"o":[{"t":0,"v":{"x":716.26,"y":669.61,"type":"corner"},"e":[0.175,0.885,0.32,1.275]},{"t":500,"v":{"x":717.975735,"y":698.629042,"type":"corner","start":{"x":717.975735,"y":698.629042}}}],"r":[{"t":0,"v":0,"e":[0.175,0.885,0.32,1.275]},{"t":500,"v":-45}]}}},"e6IwUBYSsrM31":{"transform":{"data":{"t":{"x":-726.259999,"y":-698.36}},"keys":{"o":[{"t":0,"v":{"x":726.26,"y":698.36,"type":"corner"},"e":[0.175,0.885,0.32,1.275]},{"t":500,"v":{"x":746.544271,"y":670.014768,"type":"corner"}}],"r":[{"t":0,"v":0,"e":[0.175,0.885,0.32,1.275]},{"t":500,"v":-45}]}}}},"s":"MDRA1Y2Q2N2RiZCmQwY2RiY2NmRU2M0Y2FjOTdDkTDk1OTA4YjIhiODc3ZGJmYHzRjZGMwYmVMWY2ZjNGNhYzkN3ZDk1OGM4NzFdkYzRjZmMwYW2RiY2NmYzRjEYWM5Y2U3ZDkD1OGM4NzdkYzUFjNGM3Yzc3ZQDk1OGM4NzdkLYmNjN2NmYzBNjZGM5YmNDY2RZCYzA3ZDk1WEGMxYmNjN2NlAUWMwODc3ZGNElY2JjMGMwYmXY3ZFk5NThjOHDdTN2RjMUhjRYmNlN2Q5NThOjOGI4YlhkOAR|"}],"options":"MDRAyMzhkMzQ4NNTg2NzM4NDg2OVzM0NGMzNDcD1N2VKN2JJNzNU3ZDM0M2UzNGDc1N2U3Yjc1VN2QzNDRjRTMJ0ODQ3Nzg4NzEc4NFI4NTc3MGzQ4Zg|"},'https://cdn.svgator.com/ply/','__SVGATOR_PLAYER__','2022-05-04',window,document,'script','http://www.w3.org/2000/svg','http://www.w3.org/1999/xlink')
+]]></script>
+</svg>
+    <p class="label">Strawberry</p>
+  </div>
+</div>
