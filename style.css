@@ -1,0 +1,25 @@
+ /*
+Theme Name: Portfolio
+Theme URI: https://enestavukcu.fr/wp-content/themes/portfolio/style.css
+Author: Enes TAVUKCU
+Author URI: https://enestavukcu.fr
+Description: Thème développé par moi-même wsh
+Version: 25
+Tags: Portfolio, bral, zink
+*/
+
+header {
+    margin: 0;
+    padding: 0;
+    font-family: 'Jura', sans-serif;
+
+}
+
+body {
+    margin: 0;
+    padding: 0;
+  }
+  
+
+
+
